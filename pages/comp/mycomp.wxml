@@ -1,0 +1,13 @@
+<!--pages/comp/mycomp.wxml-->
+<!-- <text>pages/comp/mycomp.wxml</text> -->
+<view class="wrapper">
+  <view>
+  <text>
+          {{propA}}fffff
+  </text>
+  
+  
+  
+  </view>
+  <slot></slot>
+</view>
